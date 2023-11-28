@@ -1,0 +1,3 @@
+selenium==4.9
+pymongo
+undetected-chromedriver==2.1.1
